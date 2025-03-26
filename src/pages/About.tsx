@@ -19,7 +19,7 @@ const About: React.FC = () => {
             
             {/* Langues maîtrisées */}
             <div className='text-center mt-5'>
-              <span className='text-lg font-semibold'>Langues maîtrisées :</span>
+              <span className='text-lg font-semibold'>Langues :</span>
               <div className='flex justify-center mt-2 space-x-4'>
                 <img className='w-8 h-5' src='https://flagcdn.com/w40/fr.png' alt='France' />
                 <img className='w-8 h-5' src='https://flagcdn.com/w40/gb.png' alt='Angleterre' />

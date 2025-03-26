@@ -22,7 +22,7 @@ export default function Home() {
                         alt="profil" 
                     />
 <div className="text-4xl font-bold mt-4 bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-transparent bg-clip-text">
-  DARRYL SANGARE
+  DARRYL SANGARE 
 </div>
 
                     <div className="text-xl mt-2">Développeur web </div>
